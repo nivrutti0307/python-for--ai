@@ -1,4 +1,5 @@
 # Let's explore interactive mode
+#commett: This is a simple Python script that demonstrates basic operations in interactive mode.
 name = "Python Learner"
 print(f"Hello, {name}!")
 
